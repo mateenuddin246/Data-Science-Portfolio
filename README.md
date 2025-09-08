@@ -39,4 +39,4 @@ This repository contains end-to-end projects in **Machine Learning, Data Visuali
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/Data-Science
+git clone https://github.com/mateenuddin246/Data-Science
